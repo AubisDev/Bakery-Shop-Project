@@ -50,7 +50,7 @@ export const Gallery = () => {
   
 
     return (
-       <div className='max-w-80p m-auto animate__animated animate__fadeInLeft -mt-24 sm:-mt-12 md:-mt-20'>
+       <div className='max-w-80p m-auto animate__animated animate__fadeInLeft -mt-16 sm:-mt-12 md:-mt-20'>
             <form className='flex flex-row  w-full sm:w-5/6 mx-auto justify-center my-3 py-5 bg-pink-400 bg-opacity-20 shadow-lg'>
             <input 
                 className=" border border-transparent focus:outline-none focus:ring-2 focus:ring-pink-400 focus:border-transparent p-2 shadow-md rounded-xl w-full sm:w-4/5"
