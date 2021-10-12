@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Bakery-Shop-Project/static/css/main.ecb2375f.chunk.css",
+    "main.css": "/Bakery-Shop-Project/static/css/main.25813fb0.chunk.css",
     "main.js": "/Bakery-Shop-Project/static/js/main.67be2733.chunk.js",
     "main.js.map": "/Bakery-Shop-Project/static/js/main.67be2733.chunk.js.map",
     "runtime-main.js": "/Bakery-Shop-Project/static/js/runtime-main.f680eecc.js",
@@ -10,7 +10,7 @@
     "static/js/2.d388bf6b.chunk.js.map": "/Bakery-Shop-Project/static/js/2.d388bf6b.chunk.js.map",
     "index.html": "/Bakery-Shop-Project/index.html",
     "static/css/2.97522331.chunk.css.map": "/Bakery-Shop-Project/static/css/2.97522331.chunk.css.map",
-    "static/css/main.ecb2375f.chunk.css.map": "/Bakery-Shop-Project/static/css/main.ecb2375f.chunk.css.map",
+    "static/css/main.25813fb0.chunk.css.map": "/Bakery-Shop-Project/static/css/main.25813fb0.chunk.css.map",
     "static/js/2.d388bf6b.chunk.js.LICENSE.txt": "/Bakery-Shop-Project/static/js/2.d388bf6b.chunk.js.LICENSE.txt",
     "static/media/Gallery-1.a0939cd3.jpg": "/Bakery-Shop-Project/static/media/Gallery-1.a0939cd3.jpg",
     "static/media/Gallery-10.af2f250d.jpg": "/Bakery-Shop-Project/static/media/Gallery-10.af2f250d.jpg",
@@ -42,7 +42,7 @@
     "static/js/runtime-main.f680eecc.js",
     "static/css/2.97522331.chunk.css",
     "static/js/2.d388bf6b.chunk.js",
-    "static/css/main.ecb2375f.chunk.css",
+    "static/css/main.25813fb0.chunk.css",
     "static/js/main.67be2733.chunk.js"
   ]
 }
