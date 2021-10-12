@@ -25,6 +25,17 @@ export const Products = () => {
         setActiveCategory( option )
     }
 
+        /**
+     * PurgeCSS:
+     * bg-menu-1
+     * bg-menu-2
+     * bg-menu-3
+     * bg-menu-4
+
+     *
+
+    */
+
 
     return (
         <div className='h-screen w-4/5 animate__animated animate__fadeInRight -mt-20 sm:-mt-12 md:-mt-28'>
