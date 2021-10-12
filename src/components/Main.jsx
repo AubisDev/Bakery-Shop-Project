@@ -6,7 +6,7 @@ import { Socials } from './Socials'
 export const Main = () => {
     return (
       <div className='w-screen flex flex-col m-auto animate__animated animate__fadeInLeft '>
-        <div className='block m-auto w-4/6   border-opacity-50 -mt-16 sm:-mt-12 md:-mt-28 ' >
+        <div className='block m-auto w-4/6   border-opacity-50 -mt-16 sm:-mt-12 md:-mt-20 ' >
             <p className='font-subtitle  text-xl md:text-3xl lg:text-4xl flex justify-center p-0 text-blue-600'> Recently delivered orders... </p>
 
             <RecentOrders/>

@@ -38,7 +38,7 @@ export const Products = () => {
 
 
     return (
-        <div className='h-screen w-4/5 animate__animated animate__fadeInRight -mt-20 sm:-mt-12 md:-mt-28'>
+        <div className='h-screen w-4/5 animate__animated animate__fadeInRight -mt-20 sm:-mt-12 md:-mt-20'>
             <div className='flex flex-col w-90pw h-screen m-auto  font-Monserrat '>
                 <div className='flex flex-row h-1/4 w-full'>
                     {menu.map( ( m, index ) => (

@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Contact = () => {
     return (
-        <div className='h-screen w-3/4 sm:bg-pink-600 sm:bg-opacity-80 animate__animated animate__fadeInRight -mt-8 sm:-mt-16 md:-mt-40 '>
-            <div className='h-9ph w-3/4 lg:w-1/2 bg-white  m-auto relative top-1/2 transform -translate-y-2/4 rounded-lg'>
+        <div className='h-screen w-full sm:w-3/4  sm:bg-pink-600 sm:bg-opacity-80 animate__animated animate__fadeInRight -mt-8 sm:-mt-16 md:-mt-36 '>
+            <div className='h-9ph w-4/5  lg:w-1/2 bg-white  m-auto relative top-1/2 transform -translate-y-2/4 rounded-lg'>
                 <form 
                     className='grid grid-cols-1 gap-3 w-full text-serif p-2 border-2 border-pink-400 border-opacity-40 '
                     
