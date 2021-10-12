@@ -1,5 +1,13 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  purge: {
+    content: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+    safelist: [
+      'bg-menu-1',
+      'bg-menu-2',
+      'bg-menu-3',
+      'bg-menu-4',
+    ]
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
