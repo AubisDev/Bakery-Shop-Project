@@ -21,31 +21,27 @@ import Gallery20 from '../img/Gallery-20.jpg'
 
 export const getImages = () =>{
 
-    const randomInitialValue = () => {
-        return Math.floor( Math.random() * 100 );
-    }
-
     return [
-        {id: 1, imgUrl: Gallery1, votes: randomInitialValue(), name: `cake=1`},
-        {id: 2, imgUrl: Gallery2, votes: randomInitialValue(), name: `cake-2`},
-        {id: 3, imgUrl: Gallery3, votes: randomInitialValue(), name: `cake-3`},
-        {id: 4, imgUrl: Gallery4, votes: randomInitialValue(), name: `cake-4`},
-        {id: 5, imgUrl: Gallery5, votes: randomInitialValue(), name: `cake-5`},
-        {id: 6, imgUrl: Gallery6, votes: randomInitialValue(), name: `cupcake-6`},
-        {id: 7, imgUrl: Gallery7, votes: randomInitialValue(), name: `cupcake-7`},
-        {id: 8, imgUrl: Gallery8, votes: randomInitialValue(), name: `dessert-8`},
-        {id: 9, imgUrl: Gallery9, votes: randomInitialValue(), name: `cupcake-9`},
-        {id: 10, imgUrl: Gallery10, votes: randomInitialValue(), name: `cupcake-10`},
-        {id: 11, imgUrl: Gallery11, votes: randomInitialValue(), name: `donut-11`},
-        {id: 12, imgUrl: Gallery12, votes: randomInitialValue(), name: `donut-12`},
-        {id: 13, imgUrl: Gallery13, votes: randomInitialValue(), name: `donut-13`},
-        {id: 14, imgUrl: Gallery14, votes: randomInitialValue(), name: `donut-14`},
-        {id: 15, imgUrl: Gallery15, votes: randomInitialValue(), name: `cheese-15`},
-        {id: 16, imgUrl: Gallery16, votes: randomInitialValue(), name: `cheese-16`},
-        {id: 17, imgUrl: Gallery17, votes: randomInitialValue(), name: `cheese-17`},
-        {id: 18, imgUrl: Gallery18, votes: randomInitialValue(), name: `chocolate-18`},
-        {id: 19, imgUrl: Gallery19, votes: randomInitialValue(), name: `chocolate-19`},
-        {id: 20, imgUrl: Gallery20, votes: randomInitialValue(), name: `chocolate-20`},
+        {id: 1, imgUrl: Gallery1, votes: 23, name: `cake=1`},
+        {id: 2, imgUrl: Gallery2, votes: 55, name: `cake-2`},
+        {id: 3, imgUrl: Gallery3, votes: 11, name: `cake-3`},
+        {id: 4, imgUrl: Gallery4, votes: 40, name: `cake-4`},
+        {id: 5, imgUrl: Gallery5, votes: 37, name: `cake-5`},
+        {id: 6, imgUrl: Gallery6, votes: 28, name: `cupcake-6`},
+        {id: 7, imgUrl: Gallery7, votes: 18, name: `cupcake-7`},
+        {id: 8, imgUrl: Gallery8, votes: 74, name: `dessert-8`},
+        {id: 9, imgUrl: Gallery9, votes: 14, name: `cupcake-9`},
+        {id: 10, imgUrl: Gallery10, votes: 21, name: `cupcake-10`},
+        {id: 11, imgUrl: Gallery11, votes: 31, name: `donut-11`},
+        {id: 12, imgUrl: Gallery12, votes: 10, name: `donut-12`},
+        {id: 13, imgUrl: Gallery13, votes: 36, name: `donut-13`},
+        {id: 14, imgUrl: Gallery14, votes: 62, name: `donut-14`},
+        {id: 15, imgUrl: Gallery15, votes: 17, name: `cheese-15`},
+        {id: 16, imgUrl: Gallery16, votes: 26, name: `cheese-16`},
+        {id: 17, imgUrl: Gallery17, votes: 37, name: `cheese-17`},
+        {id: 18, imgUrl: Gallery18, votes: 34, name: `chocolate-18`},
+        {id: 19, imgUrl: Gallery19, votes: 80, name: `chocolate-19`},
+        {id: 20, imgUrl: Gallery20, votes: 12, name: `chocolate-20`},
 
 
     ]

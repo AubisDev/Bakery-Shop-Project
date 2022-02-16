@@ -24,7 +24,7 @@ export const Socials = () => {
                 </div>
             </div>
 
-            <p className='font-Monserrat flex w-full justify-center'>
+            <p className='font-Monserrat flex w-full text-center justify-center'>
                 This website has been designed by Aubis Sanchez
             </p>
         </div>

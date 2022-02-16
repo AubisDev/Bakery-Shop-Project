@@ -25,17 +25,6 @@ export const Products = () => {
         setActiveCategory( option )
     }
 
-        /**
-     * PurgeCSS:
-     * bg-menu-1
-     * bg-menu-2
-     * bg-menu-3
-     * bg-menu-4
-
-     *
-
-    */
-
 
     return (
         <div className='h-screen w-4/5 animate__animated animate__fadeInRight -mt-20 sm:-mt-12 md:-mt-20'>
@@ -64,7 +53,7 @@ export const Products = () => {
                     )
 
                     : (
-                        <div className='border-l border-r border-gray-500 border-opacity-70 w-2/4 m-auto h-3/4 w-full md:w-4/5 lg:w-3/4 xl:w-3/5 relative top-1/2 transform -translate-y-2/3 bg-white '>
+                        <div className='border-l border-r border-gray-500 border-opacity-70 m-auto h-3/4 w-full md:w-4/5 lg:w-3/4 xl:w-3/5 relative top-1/2 transform -translate-y-2/3 bg-white '>
                             <p className='text-3xl w-1/2 m-auto border-b-2 border-pink-600 tracking-widest pt-3 flex justify-center text-purple-800 uppercase'> {activeCategory} </p>
                             <div className='  h-3/4 w-full  grid grid-rows-4 gap-8 mt-6 '>
 
@@ -80,11 +69,6 @@ export const Products = () => {
 
                 }
                         
-
-
-           
-
-
             </div>
         </div>
     )

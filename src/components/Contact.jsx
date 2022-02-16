@@ -54,7 +54,7 @@ export const Contact = () => {
                    <div className='flex flex-col m-auto w-full items-center pb-5'>
                     <label className='w-3/4 text-gray-500 text-opacity-90 text-sm pb-2'>Review/Comments </label>
                         <textarea
-                            className='  px-2 shadow-sm  w-3/4  text-sm border-2 border-pink-400  min-h-comment max-h-comment-sm md:max-h-comment-box overflow-auto focus:outline-none focus:border-transparent focus:border-transparent focus:border-pink-400 '
+                            className='  px-2 shadow-sm  w-3/4  text-sm border-2 border-pink-400  min-h-comment max-h-comment-sm md:max-h-comment-box overflow-auto focus:outline-none focus:border-transparent  focus:border-pink-400 '
                             placeholder='Please leave us your review here, thank you for your purchase'
                             required
                             

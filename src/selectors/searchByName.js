@@ -2,9 +2,7 @@ import { getImages } from "../helper/images";
 
 const Items = getImages();
 
-export const getItemByName = ( name= '' ) => {
+export const getItemByName = ( name= '', gallery ) => {
 
-    // name.toLowerCase();
-    
-    return  name === '' ?  Items : Items.filter( item => item.name.toLowerCase().includes( name )) 
+    return  name === '' ?  gallery : gallery.filter( item => item.name.toLowerCase().includes( name )) 
 }

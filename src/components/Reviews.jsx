@@ -9,8 +9,8 @@ export const Reviews = () => {
 
     const Reviews = [
         { img : review_1, comment: '"Los mejores postres que he comido han sido los de Bakery Shop, son suaves y delicioso"', star: 5 },
-        { img : review_2, comment: '"Greats and beautiful cakes, and the cupcakes are the best i ever tasted"', star: 4.7 },
-        { img : review_3, comment: '"Excelente atencion al cliente y los postres son los mejores"', star: 4.8},
+        { img : review_2, comment: '"Greats and beautiful cakes, and the cupcakes are the best i ever tasted"', star: 5 },
+        { img : review_3, comment: '"Excelente atencion al cliente y los postres son los mejores"', star: 5},
     ]
 
 
